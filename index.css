@@ -1,12 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin:0 
+    padding 0;
+
+}
+
 .navbar{ 
     background-color: #eee;
+}
+.navbar-brand{
+    color: hotpink; 
+    background-color:honeydew;
+
 }
 h1 {
     color: hotpink; 
     background-color:honeydew;
 }
-h2{
-    color:hotpink;
-    background-color: honeydew;
-   
+p {
+float: left;
 }
