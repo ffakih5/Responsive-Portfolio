@@ -4,7 +4,6 @@
     padding 0;
 
 }
-
 .navbar{ 
     background-color: #eee;
 }
@@ -17,6 +16,17 @@ h1 {
     color: hotpink; 
     background-color:honeydew;
 }
-p {
-float: left;
+
+.container { 
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px;
+}
+img{
+    float: left;
+    width: 100%;
+    padding: 0 10px 0 0;
+}
+.text{
+    text-align: right;
 }
