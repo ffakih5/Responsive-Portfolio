@@ -38,7 +38,12 @@ h1 {
 .button{
     background-color: hotpink;
 
+
     
+}
+.image{
+    float: center;
+
 }
 .footer{
     background-color: honeydew;
