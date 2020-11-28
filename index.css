@@ -2,8 +2,8 @@
     box-sizing: border-box;
     margin:0 
     padding 0;
-
 }
+
 .navbar{ 
     background-color: #eee;
 }
@@ -18,7 +18,15 @@ h1 {
 }
 
 
-.img-fluid{
+.img-fluid
+{
     max-width: 100%;
     height : auto;
+    float: left;  
+    margin: 5px; 
 }
+
+.text{ 
+    text-align: justify; 
+    font-size: 25px; 
+} 
