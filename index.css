@@ -34,6 +34,12 @@ h1 {
     font-size: 16px; 
 } 
 
+
+.button{
+    background-color: hotpink;
+
+    
+}
 .footer{
     background-color: honeydew;
     position: relative;
