@@ -17,16 +17,8 @@ h1 {
     background-color:honeydew;
 }
 
-.container { 
-    margin: 150px auto;
-    width: 50%;
-    padding: 8px;
-}
-img{
-    float: left;
-    width: 100%;
-    padding: 0 10px 0 0;
-}
-.text{
-    text-align: right;
+
+.img-fluid{
+    max-width: 100%;
+    height : auto;
 }
